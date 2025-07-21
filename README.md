@@ -3,17 +3,25 @@
 This is a Spring Boot-based RESTful API that allows you to manage student data. The project follows a clean architecture using layered components such as Controller, Service, Repository, DTO, and Entity layers. It integrates with a relational database using Spring Data JPA .
 
 
+
+
+
 ## Technologies Used
 This project makes use of the following libraries and technologies:
-- **java**e
+- **java**
 - **Spring boot** 
 - **MySQL**
+
+
 
 
   ## Features
 -Add new students
 -Retrieve student details
 -Standard RESTful API design
+
+
+
 
 
 ## Project Structure
